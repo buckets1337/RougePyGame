@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="889" xOffset="0" scrollWidth="11053" startPos="25849" endPos="25849" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Justin\Documents\Python\RoguePyCraft\RoguePyCraft.py" />
+            <File firstVisibleLine="0" xOffset="252" scrollWidth="1393" startPos="349" endPos="349" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Justin\Documents\Python\RoguePyCraft\dialogs\sys_dialog.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="763" startPos="253" endPos="44" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Justin\Documents\Python\RoguePyCraft\new_game_init.py" />
+        </mainView>
+        <subView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="912" startPos="559" endPos="559" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Justin\Google Drive\RoguePyCraft\CONFIG.py" />
+            <File firstVisibleLine="461" xOffset="0" scrollWidth="11053" startPos="47580" endPos="47580" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Justin\Documents\Python\RoguePyCraft\RoguePyCraft.py" />
+            <File firstVisibleLine="21" xOffset="0" scrollWidth="1393" startPos="1418" endPos="1418" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Justin\Documents\Python\RoguePyCraft\dialogs\sys_dialog.py" />
+        </subView>
+    </Session>
+</NotepadPlus>
